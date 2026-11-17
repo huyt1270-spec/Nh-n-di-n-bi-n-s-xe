@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/plates.db
+data/crops/
+data/results/
+models/*.pt
+models/*.onnx
+.streamlit/
